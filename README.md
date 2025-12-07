@@ -4,12 +4,19 @@ Este proyecto contiene una serie de ejercicios prácticos en JavaScript que trab
 📁 Estructura del Proyecto
 text
 📂 proyecto-arrays/
+
 ├── arrego.js          # Suma de elementos de un arreglo
+
 ├── arrego2.js         # Separación de números pares e impares
+
 ├── invertiArr.js      # Inversión de una palabra
+
 ├── palabras.js        # Búsqueda de la palabra más larga
+
 ├── numeros.js         # Filtrado de números mayores a un límite
+
 └── README.md          # Este archivo
+
 📋 Descripción de los Archivos
 1. arrego.js - Suma de Elementos
 Propósito: Calcula la suma total de todos los elementos numéricos en un arreglo.
